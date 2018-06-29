@@ -1,0 +1,51 @@
+#======================================================================
+
+# CRYSTAL DATA
+
+#----------------------------------------------------------------------
+
+data_VESTA_phase_1
+
+
+_chemical_name_common                  ''
+_cell_length_a                         6.88000
+_cell_length_b                         11.91000
+_cell_length_c                         18.60000
+_cell_angle_alpha                      90
+_cell_angle_beta                       90
+_cell_angle_gamma                      90
+_space_group_name_H-M_alt              'P 21 21 21'
+_space_group_IT_number                 19
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+   '-x+1/2, -y, z+1/2'
+   '-x, y+1/2, -z+1/2'
+   'x+1/2, -y+1/2, -z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_B_iso_or_equiv
+   _atom_site_type_symbol
+   C1         1.0     0.360700      0.042200      0.047300     Biso  5.500000 C
+   C2         1.0     0.344100      0.024200      0.129300     Biso  6.500000 C
+   C1'        1.0     0.301000      0.163900      0.027700     Biso  8.700000 C
+   C1''       1.0     0.572700      0.025600      0.024800     Biso  7.400000 C
+   C3         1.0     0.164600      0.018400      0.176900     Biso  6.000000 C
+   C4         1.0     0.216400      0.025900      0.256100     Biso  9.400000 C
+   C3'        1.0     0.049600     -0.092600      0.161900     Biso  9.300000 C
+   C3''       1.0     0.028300      0.118000      0.157700     Biso  7.400000 C
+   C5         1.0     0.367700     -0.042200      0.299100     Biso  4.200000 C
+   C6         1.0     0.316600     -0.035700      0.381400     Biso  8.100000 C
+   C5'        1.0     0.575700      0.000800      0.285800     Biso  6.900000 C
+   C5''       1.0     0.355000     -0.165200      0.277900     Biso  6.100000 C
+   C7         1.0     0.289200      0.069400      0.428000     Biso  6.400000 C
+   C8         1.0     0.288400      0.037800      0.507500     Biso  6.400000 C
+   C7'        1.0     0.096700      0.127000      0.405700     Biso  7.900000 C
+   C7''       1.0     0.455400      0.153800      0.415300     Biso  7.900000 C

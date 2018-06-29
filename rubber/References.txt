@@ -1,0 +1,11 @@
+[1] Y. Takahashi and T. Kumano, Mcromol. 37 (2004) 4860-4864.
+[2] Y. Fu, et al., Mcromol. 26 (1993) 2187-2193.
+[3] T. Tanaka, et al., J. Polym. Sci., Polym. Phys. Ed., 12 (1974) 515-531.
+ C only
+[4] Y. Takahashi, et al., J. Polym. Sci., Polym. Phys. Ed., 13 (1975) 285-294.
+[5] C. W. Bunn and E. V. Garner, J. Chem. Soc., (1942) 654
+ C only
+[6] Y. Chatani, et al., J. Polym. Sci. Part B: Polym. Phys.: 29 (1991) 1649-1652.
+ C only
+[7] C. W. Bunn, Proc. Roy. Soc. A 180 (1942) 40.
+ C only
